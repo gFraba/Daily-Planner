@@ -34,4 +34,4 @@ https://gfraba.github.io/Daily-Planner/
 
 ## Screen Shot
 
-![Alt text](./assets/dayplanner.jpg?raw=true)
+![Alt text](/assets/dayplanner.JPG?raw=true)
