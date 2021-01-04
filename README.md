@@ -25,7 +25,7 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
-
+```
 -----------------
 ## Link to deployed application
 
@@ -34,4 +34,4 @@ https://gfraba.github.io/Daily-Planner/
 
 ## Screen Shot
 
-![Alt text](/assets/dayplanner.jpg?raw=true)
+![Alt text](./assets/dayplanner.jpg?raw=true)
